@@ -30,7 +30,7 @@ An open-source self-hosted file server that allows users to securely store, mana
 
 ---
 
-### M.I.L.O.
+### [M.I.L.O.](https://play.google.com/store/apps/details?id=com.gforce.milo_app)
 An AI-powered personal finance and budgeting application that helps users track expenses more efficiently.
 
 **Features:**
