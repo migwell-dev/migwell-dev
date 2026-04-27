@@ -15,6 +15,7 @@ Currently exploring:
 ### [AutoCommit](https://github.com/migwell-dev/autocommit)
 
 [![AutoCommit Repo](https://img.shields.io/badge/Repo-AutoCommit-black?style=for-the-badge&logo=github)](https://github.com/migwell-dev/autocommit)
+
 A CLI tool that automatically generates meaningful Git commit messages using hosted or local LLMs.
 
 **Tech:** Go, CLI tooling, LLM APIs, local model integration
@@ -26,6 +27,7 @@ A CLI tool that automatically generates meaningful Git commit messages using hos
 ### [OpenCentral](https://github.com/migwell-dev/opencentral)
 
 [![OpenCentral Repo](https://img.shields.io/badge/Repo-OpenCentral-blue?style=for-the-badge&logo=github)](https://github.com/migwell-dev/opencentral)
+
 An open-source self-hosted file server that allows users to securely store, manage, and retrieve files from their own infrastructure.
 
 **Tech:** Full-stack web development, backend infrastructure, storage systems
@@ -37,6 +39,7 @@ An open-source self-hosted file server that allows users to securely store, mana
 ### [M.I.L.O.](https://play.google.com/store/apps/details?id=com.gforce.milo_app)
 
 [![Google Play](https://img.shields.io/badge/Available%20on-Google%20Play-green?style=for-the-badge&logo=google-play)](https://play.google.com/store/apps/details?id=com.gforce.milo_app)
+
 An AI-powered personal finance and budgeting application that helps users track expenses more efficiently.
 
 **Features:**
