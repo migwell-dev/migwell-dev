@@ -77,4 +77,4 @@ Scikit-learn • NumPy • Pandas • Matplotlib • NLP • CNNs • RNNs
 
 ---
 
-Always open to collaborating on interesting projects, open-source work, or ideas that sound slightly unreasonable but worth building.
+Always open to collaborating on interesting projects, open-source work, or ideas that sound like they're worth building.
