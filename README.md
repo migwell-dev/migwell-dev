@@ -18,7 +18,8 @@ Currently exploring:
 
 A CLI tool that automatically generates meaningful Git commit messages using hosted or local LLMs.
 
-**Tech:** Go, CLI tooling, LLM APIs, local model integration
+**Tech:** CLI tooling, LLM APIs, local model integration
+**Stack:** Go (bubbletea, lipgloss)
 
 → Automates repetitive Git workflows while giving developers flexibility between cloud and local inference.
 
@@ -31,6 +32,7 @@ A CLI tool that automatically generates meaningful Git commit messages using hos
 An open-source self-hosted file server that allows users to securely store, manage, and retrieve files from their own infrastructure.
 
 **Tech:** Full-stack web development, backend infrastructure, storage systems
+**Stack:** Vite + Reactjs, Go, SQLite, Docker
 
 → Built for developers who want control over their own file storage systems.
 
@@ -49,6 +51,7 @@ An AI-powered personal finance and budgeting application that helps users track 
 - AI-powered financial chatbot
 
 **Tech:** Mobile development, OCR, AI integration
+**Stack:** Flutter, Firebase, Self-hosted LLM (Ollama)
 
 ---
 
