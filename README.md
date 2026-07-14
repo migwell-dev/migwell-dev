@@ -12,6 +12,18 @@ Currently exploring:
 
 ## Featured Projects
 
+### [Ayudame](https://github.com/migwell-dev/ayudame)
+[![Ayudame Repo](https://img.shields.io/badge/Repo-Ayudame-black?style=for-the-badge&logo=github)](https://github.com/migwell-dev/ayudame)
+
+A terminal-based code analysis assistant that inspects and works with a real codebase — symbol lookup, call graph mapping, and targeted file edits, all driven through an agentic loop.
+
+**Tech:** Agentic workflows, LLM tool-use, codebase-aware tooling
+**Stack:** Go (charm, cobra), Tree-sitter
+
+→ Built as an educational project to understand how agentic applications like Claude Code work under the hood. Experimental project.
+
+---
+
 ### [AutoCommit](https://github.com/migwell-dev/autocommit)
 
 [![AutoCommit Repo](https://img.shields.io/badge/Repo-AutoCommit-black?style=for-the-badge&logo=github)](https://github.com/migwell-dev/autocommit)
